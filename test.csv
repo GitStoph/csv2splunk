@@ -1,0 +1,6 @@
+ipaddress,verdict
+0.0.0.0/8,known_malicious
+1.10.16.0/20,known_malicious
+1.19.0.0/16,known_malicious
+1.32.128.0/18,known_malicious
+2.56.192.0/22,known_malicious
