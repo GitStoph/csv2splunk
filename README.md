@@ -28,3 +28,4 @@ optional arguments:
 ```
 Example: `./csv2splunk.py -i my-instance -f /Users/myuser/csv2splunk/test.csv`
 Copy and paste the resulting hyperlink it generates into your browser. Profit. 
+![Example](./csv2splunkexample.png)
